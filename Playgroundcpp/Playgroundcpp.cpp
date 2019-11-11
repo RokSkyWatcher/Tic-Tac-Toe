@@ -73,7 +73,7 @@ char GetAndValidateInput(string playerName, char player)
 			move--;
 			insertIntoBoard(move, player);
 		}
-		catch (const std::invalid_argument& ex)
+		catch (const std::invalid_argument)
 		{
 			cout << "Invalid argument, please insert a number between 0-9" << endl;
 			continue;

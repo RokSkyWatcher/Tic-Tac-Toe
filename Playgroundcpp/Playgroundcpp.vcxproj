@@ -152,11 +152,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="likedlist.cpp" />
     <ClCompile Include="Playgroundcpp.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="likedlist.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

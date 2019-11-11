@@ -18,13 +18,5 @@
     <ClCompile Include="Playgroundcpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="likedlist.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="likedlist.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
